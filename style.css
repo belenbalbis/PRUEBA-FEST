@@ -15,6 +15,7 @@ body {
     "navbar"
     "main"
     "footer";
+  overflow-y: hidden;
 }
 
 /*NAVBAR*/
